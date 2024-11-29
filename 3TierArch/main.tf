@@ -1,1 +1,3 @@
-source:
+variable "main"{
+  default = []
+}
